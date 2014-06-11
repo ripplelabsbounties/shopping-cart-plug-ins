@@ -6,18 +6,18 @@ shopping-cart-plug-ins
 
 **Suggested platforms to develop for:**
     
-    *[OpenCart](http://www.opencart.com/)
+   *[OpenCart](http://www.opencart.com/)
     
-    *[UltraCart](http://www.ultracart.com/)
+   *[UltraCart](http://www.ultracart.com/)
     
-    *[Ubercart](http://www.ubercart.org/)
+   *[Ubercart](http://www.ubercart.org/)
      
-    *[Commerce](http://www.drupalcommerce.org/)
+   *[Commerce](http://www.drupalcommerce.org/)
+   
+   *[VirtueMart](http://virtuemart.net/)
     
-    *[VirtueMart](http://virtuemart.net/)
+   *[Zen Cart](http://www.zen-cart.com/)
     
-    *[Zen Cart](http://www.zen-cart.com/)
+   *[osCommerce](http://www.oscommerce.com/)
     
-    *[osCommerce](http://www.oscommerce.com/)
-    
-    *[Wordpress plugins](http://wordpress.org/)
+   *[Wordpress plugins](http://wordpress.org/)
