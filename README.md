@@ -1,4 +1,4 @@
-shopping-cart-plug-ins
+shopping cart plug-ins
 ======================
 **Amount offered:** 100,000 XRP per plug-in
 
