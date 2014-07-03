@@ -1,6 +1,5 @@
 shopping cart plug-ins
 ======================
-**Amount offered:** 100,000 XRP per plug-in
 
 **Description:** Create a shopping cart plug-in that enables store owners to accept payments through Ripple. Functionality needs to meet or exceed that of the Magento Ripple plug-in.
 
